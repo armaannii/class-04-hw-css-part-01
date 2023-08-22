@@ -1,0 +1,27 @@
+h1{color:orangered;
+   text-align:center; 
+}
+
+h2{color:blue;}
+
+
+p{color:rgb(228, 224, 11);
+  background-color:black;
+  text-align:justify;
+  text-decoration:underline;
+  text-decoration-style:double;
+  line-height:1.5;
+}
+
+address{color:red;
+        text-align:right;
+        font-size:20px;
+}
+
+pre{color:rgb(5, 3, 124);
+    font-size:17px;
+}
+
+del{color:red;
+    background-color:black;
+}
